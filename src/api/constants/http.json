@@ -1,0 +1,10 @@
+{
+  "OK": 200,
+  "CREATED": 201,
+  "NO_CONTENT": 204,
+  "invalid_data": 400,
+  "unauthorized": 401,
+  "forbidden": 403,
+  "not_found": 404,
+  "existing_email": 409
+}
